@@ -8,7 +8,7 @@
 + name: Morteza
 + last name : Ghorbani
 + Date of birth : 1368/03/14
-+ I am a traderelectrical engineer and Computer engineering master student
++ I am a electrical engineer and Computer engineering master student
 + location : southern Khorasan , I.R.Iran
 
 
