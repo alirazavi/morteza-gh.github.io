@@ -8,7 +8,7 @@
 + name: Morteza
 + last name : Ghorbani
 + Date of birth : 1368/03/14
-+ I am a traderelectrical engineer and Computer engineering student
++ I am a traderelectrical engineer and Computer engineering master student
 + location : southern Khorasan , I.R.Iran
 
 
@@ -31,9 +31,9 @@ _ 2012,Islamic Azad university
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
++ Employee of Payame Noor Tabas University .
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](ghorbani_pnu@yahoo.com)
 
 
 --- 
