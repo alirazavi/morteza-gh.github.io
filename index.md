@@ -1,39 +1,32 @@
 
-### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### Morteza Ghorbani
+<a href="https://uupload.ir/view/afl_photo.jpg" target="_blank"><img src="https://uupload.ir/files/afl_photo_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
-+ location : Tehran , I.R.Iran
++ name: Morteza
++ last name : Ghorbani
++ Date of birth : 1368/03/14
++ I am a traderelectrical engineer and Computer engineering student
++ location : southern Khorasan , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
++ Computer hardware repairs
++ Mobile phone repairs
++ Home Appliances repairs
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
-+ Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
++ Diploma : Dr.Shariati high school
+_ 2006
++ Bachelor of science : Electrical and power engineering
+_ 2012,Islamic Azad university
 
-### Favorites
-
----
-+ Trade
-+ ping-pong
-+ travel 
-+ playing video games
 
 ### working Experience
 
